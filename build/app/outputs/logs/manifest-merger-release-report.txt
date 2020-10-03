@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [:shared_preferences] E:\Project\Android\flutter\private\zakuuza\build\shared_preferences\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] E:\Project\Android\flutter\private\zakuuza\build\url_launcher\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-14:12
+MERGED from [:sqflite] E:\Project\Android\flutter\private\zakuuza\build\sqflite\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] E:\Project\Android\flutter\private\zakuuza\build\path_provider\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
+	package
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:2:5-50
+		INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:9:22-64
+application
+ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:10:5-33:19
+MERGED from [:url_launcher] E:\Project\Android\flutter\private\zakuuza\build\url_launcher\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] E:\Project\Android\flutter\private\zakuuza\build\url_launcher\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-12:19
+	android:label
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:12:9-32
+	android:icon
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:13:9-43
+	android:name
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:11:9-57
+activity#com.magocorporate.app.magocorporate.MainActivity
+ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:14:9-32:20
+	android:launchMode
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:16:13-43
+	android:hardwareAccelerated
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:20:13-55
+	android:configChanges
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:18:13-144
+	android:theme
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:name
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:15:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:25:13-27:40
+	android:value
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:27:17-37
+	android:name
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:26:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:29:17-68
+	android:name
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences] E:\Project\Android\flutter\private\zakuuza\build\shared_preferences\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] E:\Project\Android\flutter\private\zakuuza\build\shared_preferences\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] E:\Project\Android\flutter\private\zakuuza\build\url_launcher\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] E:\Project\Android\flutter\private\zakuuza\build\url_launcher\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] E:\Project\Android\flutter\private\zakuuza\build\sqflite\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] E:\Project\Android\flutter\private\zakuuza\build\sqflite\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] E:\Project\Android\flutter\private\zakuuza\build\path_provider\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] E:\Project\Android\flutter\private\zakuuza\build\path_provider\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Android\flutter\private\zakuuza\android\app\src\main\AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] E:\Project\Android\flutter\private\zakuuza\build\url_launcher\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] E:\Project\Android\flutter\private\zakuuza\build\url_launcher\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] E:\Project\Android\flutter\private\zakuuza\build\url_launcher\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] E:\Project\Android\flutter\private\zakuuza\build\url_launcher\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:9:13-74
