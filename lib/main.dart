@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme:
-          ThemeData(primaryColor: Colors.orange, primarySwatch: Colors.orange),
+          ThemeData(primaryColor: Colors.white, primarySwatch: Colors.red),
       title: "Vente des immobiliers",
       home: MyHomePage(),
       routes: {"/loginPage": (context) => LoginPage()},

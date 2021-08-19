@@ -4,12 +4,12 @@ import 'package:carousel_pro/carousel_pro.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:zakuuza/model/api.dart';
-// import 'package:zakuuza/model/order_list.dart';
+import 'package:zakuuza/model/order_list.dart';
 import 'package:zakuuza/screens/categories/horizontal_list.dart';
 import 'package:zakuuza/screens/categories/products.dart';
 import 'package:http/http.dart' as http;
-// import 'package:zakuuza/screens/pages/cart/cart1.dart';
-// import 'package:zakuuza/screens/widgets/color_loader_4.dart';
+import 'package:zakuuza/screens/pages/cart/cart1.dart';
+import 'package:zakuuza/screens/widgets/color_loader_4.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:zakuuza/screens/pages/product_details.dart';
 
@@ -61,9 +61,9 @@ class _MyHomeState extends State<MyHome> {
       dotSize: 5.0,
       indicatorBgPadding: 8.0,
       images: [
-        new AssetImage('images/logoKis.jpeg'),
+        //new AssetImage('images/logoKis.jpeg'),
         new AssetImage('images/shop6.png'),
-        new AssetImage('images/logoKis.jpeg'),
+        //new AssetImage('images/logoKis.jpeg'),
         new AssetImage('images/shop6.png'),
         new AssetImage('images/shop6.png'),
       ],
@@ -78,8 +78,8 @@ class _MyHomeState extends State<MyHome> {
     return new Scaffold(
       key: _scaffoldKey,
       appBar: new AppBar(
-        backgroundColor: Colors.orange,
-        title: new Text('Nyiragongo Soft'),
+        backgroundColor: Colors.white24,
+        title: new Text('Shop Soft'),
       ),
       body: new SingleChildScrollView(
         physics: BouncingScrollPhysics(),
@@ -103,7 +103,7 @@ class _MyHomeState extends State<MyHome> {
                 //       fontWeight: FontWeight.bold),
                 // ),
               ),
-              //Horizontal ListView
+              // Horizontal ListView
 
               // Container(
               //   child: new HorizontalList(),

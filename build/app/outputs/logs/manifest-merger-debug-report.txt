@@ -1,14 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
-MERGED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
-MERGED from [:shared_preferences] D:\Flutter projets\Zakuuza\build\shared_preferences\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
-MERGED from [:sqflite] D:\Flutter projets\Zakuuza\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
-MERGED from [:url_launcher] D:\Flutter projets\Zakuuza\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-14:12
-MERGED from [:path_provider] D:\Flutter projets\Zakuuza\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [:shared_preferences] C:\xampp\htdocs\Project\projetMobil-Kish\build\shared_preferences\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] C:\xampp\htdocs\Project\projetMobil-Kish\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] C:\xampp\htdocs\Project\projetMobil-Kish\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider] C:\xampp\htdocs\Project\projetMobil-Kish\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\d08b65cb15c7ace135fa4ef0120664a4\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\b24c52381f7549dd0c4a07960a2ae9b2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\e6409aa7a31185f0e202520059441679\AndroidManifest.xml:17:1-22:12
@@ -22,33 +22,33 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Thony_PC
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\15696152b5538471705868344ebecd8f\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\bc05f098f78fab8ef723176b1e7eea14\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\ef58e7ff2435c4de37417b2f078bbf69\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Flutter projets\Zakuuza\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from D:\Flutter projets\Zakuuza\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from D:\Flutter projets\Zakuuza\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:2:5-50
-		INJECTED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Flutter projets\Zakuuza\android\app\src\debug\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:2:5-50
+		INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
-		INJECTED from D:\Flutter projets\Zakuuza\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\debug\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:1:1-34:12
-		INJECTED from D:\Flutter projets\Zakuuza\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:9:5-66
-MERGED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:9:5-66
-MERGED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:9:5-66
+ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:9:5-66
+MERGED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:9:5-66
+MERGED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:9:5-66
 	android:name
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:9:22-64
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:9:22-64
 application
-ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:10:5-33:19
-MERGED from [:url_launcher] D:\Flutter projets\Zakuuza\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-12:19
-MERGED from [:url_launcher] D:\Flutter projets\Zakuuza\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-12:19
+ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:10:5-33:19
+MERGED from [:url_launcher] C:\xampp\htdocs\Project\projetMobil-Kish\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] C:\xampp\htdocs\Project\projetMobil-Kish\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-12:19
 MERGED from [androidx.core:core:1.1.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\51ad1c971f945c74af6e6987a38e1ffb\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\51ad1c971f945c74af6e6987a38e1ffb\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\bc05f098f78fab8ef723176b1e7eea14\AndroidManifest.xml:24:5-25:19
@@ -56,53 +56,53 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Th
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\51ad1c971f945c74af6e6987a38e1ffb\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:12:9-32
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:12:9-32
 	android:icon
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:13:9-43
 	android:name
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:11:9-57
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:11:9-57
 activity#com.magocorporate.app.magocorporate.MainActivity
-ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:14:9-32:20
+ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:14:9-32:20
 	android:launchMode
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:16:13-43
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:16:13-43
 	android:hardwareAccelerated
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:19:13-47
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:19:13-47
 	android:windowSoftInputMode
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:20:13-55
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:20:13-55
 	android:configChanges
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:18:13-144
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:18:13-144
 	android:theme
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:17:13-47
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:17:13-47
 	android:name
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:15:13-41
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:15:13-41
 meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
-ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:25:13-27:40
+ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:25:13-27:40
 	android:value
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:27:17-37
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:27:17-37
 	android:name
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:26:17-82
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:26:17-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:28:13-31:29
+ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:28:13-31:29
 action#android.intent.action.MAIN
-ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:29:17-68
+ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:29:17-68
 	android:name
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:29:25-66
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:30:17-76
+ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:30:17-76
 	android:name
-		ADDED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml:30:27-74
 uses-sdk
-INJECTED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml
-INJECTED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml
-MERGED from [:shared_preferences] D:\Flutter projets\Zakuuza\build\shared_preferences\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] D:\Flutter projets\Zakuuza\build\shared_preferences\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [:sqflite] D:\Flutter projets\Zakuuza\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [:sqflite] D:\Flutter projets\Zakuuza\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] D:\Flutter projets\Zakuuza\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] D:\Flutter projets\Zakuuza\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] D:\Flutter projets\Zakuuza\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] D:\Flutter projets\Zakuuza\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences] C:\xampp\htdocs\Project\projetMobil-Kish\build\shared_preferences\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\xampp\htdocs\Project\projetMobil-Kish\build\shared_preferences\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\xampp\htdocs\Project\projetMobil-Kish\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\xampp\htdocs\Project\projetMobil-Kish\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\xampp\htdocs\Project\projetMobil-Kish\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\xampp\htdocs\Project\projetMobil-Kish\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\xampp\htdocs\Project\projetMobil-Kish\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\xampp\htdocs\Project\projetMobil-Kish\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\d08b65cb15c7ace135fa4ef0120664a4\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\d08b65cb15c7ace135fa4ef0120664a4\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\b24c52381f7549dd0c4a07960a2ae9b2\AndroidManifest.xml:20:5-22:41
@@ -129,19 +129,19 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Th
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\bc05f098f78fab8ef723176b1e7eea14\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\ef58e7ff2435c4de37417b2f078bbf69\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Thony_PC\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\ef58e7ff2435c4de37417b2f078bbf69\AndroidManifest.xml:20:5-44
-INJECTED from D:\Flutter projets\Zakuuza\android\app\src\debug\AndroidManifest.xml
-INJECTED from D:\Flutter projets\Zakuuza\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Flutter projets\Zakuuza\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Flutter projets\Zakuuza\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Flutter projets\Zakuuza\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\Project\projetMobil-Kish\android\app\src\debug\AndroidManifest.xml
 activity#io.flutter.plugins.urllauncher.WebViewActivity
-ADDED from [:url_launcher] D:\Flutter projets\Zakuuza\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-11:74
+ADDED from [:url_launcher] C:\xampp\htdocs\Project\projetMobil-Kish\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-11:74
 	android:exported
-		ADDED from [:url_launcher] D:\Flutter projets\Zakuuza\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:13-37
+		ADDED from [:url_launcher] C:\xampp\htdocs\Project\projetMobil-Kish\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:13-37
 	android:theme
-		ADDED from [:url_launcher] D:\Flutter projets\Zakuuza\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:13-71
+		ADDED from [:url_launcher] C:\xampp\htdocs\Project\projetMobil-Kish\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:13-71
 	android:name
-		ADDED from [:url_launcher] D:\Flutter projets\Zakuuza\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:13-74
+		ADDED from [:url_launcher] C:\xampp\htdocs\Project\projetMobil-Kish\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:13-74

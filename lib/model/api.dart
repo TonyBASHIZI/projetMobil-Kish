@@ -1,7 +1,7 @@
 class BaseUrl {
   //static String ipAdress = "https://www.zakuuza.com/"; //192.168.43.196:81
   static String ipAdress =
-      "http://192.168.43.141/Projects/"; //192.168.43.196:81
+      "http://192.168.4.110:81/Project/"; //192.168.43.196:81
   // static String ipAdress = "http://192.168.8.100/"; //192.168.43.196:81
   // static String ipAdress = "http://172.20.10.2//"; //192.168.43.196:81
   static String login = ipAdress + "API/api/login.php";
@@ -11,7 +11,7 @@ class BaseUrl {
   static String selectCategory =
       ipAdress + "API/api/get_data.php/?value=category";
   static String uploadUrl =
-      ipAdress + "zakuuzaAdmin/zakuuzaAdmin/imgtout/"; //online images
+      ipAdress + "/MagoProject/imgtout/"; //online images
   // static String uploadUrl = ipAdress+"API/api/imgload/"; //local images
   static String panierUrl = ipAdress + "API/api/update_panier.php";
   static String panierdetailsUrl = ipAdress + "API/api/detail_panier.php";

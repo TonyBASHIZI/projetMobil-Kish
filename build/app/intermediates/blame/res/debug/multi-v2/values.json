@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Flutter projets\\Zakuuza\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\xampp\\htdocs\\Project\\projetMobil-Kish\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\Flutter projets\\Zakuuza\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\xampp\\htdocs\\Project\\projetMobil-Kish\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
